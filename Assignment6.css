@@ -1,0 +1,22 @@
+.container{
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.item{
+    border-radius: 10px;
+    border: 2px solid #adadad;
+    
+}
+.image{
+    border-radius: 10px;
+    width: 500px;
+    height: 800px;
+}
+span{
+    font-size: 46px;
+}
+.card{
+    padding: 40px;
+    font-family: monospace;
+}
